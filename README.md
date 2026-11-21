@@ -1,6 +1,6 @@
 Hi, I'm Hazel! 👋
 
-🎓 ICT Student | 💻 Aspiring Developer | 📊 Exploring Data Science
+🎓 Computer Science Student | 💻 Aspiring Developer | 📊 Exploring Data Science
 
 About Me
 
